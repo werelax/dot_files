@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='ftp://ftp.patrivalor.com/httpdocs/'
+let g:netrw_dirhist_2='/home/elias/proyectos/favmonster-firefox-addon/content'
+let g:netrw_dirhist_3='/Users/elias/Proyectos/favmonster5/lordsarevok/favmonster'
+let g:netrw_dirhist_4='/home/elias/proyectos/favmonster-firefox-addon/content-coffee'
+let g:netrw_dirhist_5='/home/elias/proyectos/favmonster-firefox-addon/spec'
+let g:netrw_dirhist_6='/home/elias/proyectos/favmonster/db/migrate'
